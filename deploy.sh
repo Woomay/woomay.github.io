@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 https://<USERNAME>.github.io
-git push -f git@github.com:Woomay/woomay.github.io.git master:gh-pages
+git push -f git@github.com:Woomay/woomay.github.io.git master
 
 cd -
